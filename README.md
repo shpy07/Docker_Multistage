@@ -4,26 +4,6 @@
 
 This project demonstrates the use of Docker for containerizing applications. It includes examples of both single and multi-stage Docker builds for different programming languages, specifically Go and Java.
 
-## Directory Structure
-
-Docker_Project/
-├── Go_Program/
-│   ├── Docker_Without_Multistage/
-│   │   ├── Calculator.go
-│   │   └── Dockerfile
-│   └── Docker_With_Multistage/
-│       ├── Calculator.go
-│       └── Dockerfile
-├── Java_Program/
-│   ├── Docker_Without_Multistage/
-│   │   ├── SimpleCalculator.java
-│   │   └── Dockerfile
-│   └── Docker_With_Multistage/
-│       ├── SimpleCalculator.java
-│       └── Dockerfile
-└── README.md
-
-
 
 ## Go Program
 
