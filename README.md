@@ -7,9 +7,9 @@ This project demonstrates the use of Docker for containerizing applications. It 
 ## Directory Structure
 
 Docker_Project/
-├── Go_Program/
-│ └── Docker_Without_Multistage/
-│ ├── Calculator.go
+├── Go_Program/                                                                                                                               
+│ └── Docker_Without_Multistage/                                                                                                                                                                                 
+│ ├── Calculator.go                                                                                                                                                                                                 
 │ └── Dockerfile
 │ └── Docker_With_Multistage/
 │ ├── Calculator.go
